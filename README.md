@@ -140,8 +140,6 @@ This work builds on [ludwig-v/wireless-carplay-dongle-reverse-engineering](https
 
 Special thanks to friends [@jamesjoe200](https://github.com/jamesjoe200), [@iehowe](https://github.com/iehowe) and [@Warcheif81](https://github.com/Warcheif81) for providing support in terms of information on the hidden APKs, car firmware files, and hardware advice.
 
-Heartfelt thanks to [@Deadbyte92](https://github.com/Deadbyte92), a steadfast collaborator throughout the entire journey — a true partner in the R&D who brought an invaluable non-developer perspective that kept these guides grounded and approachable, and served as a dedicated beta tester, validating each step on real hardware before it reached everyone else.
-
 ---
 
 ## Legal
